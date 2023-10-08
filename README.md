@@ -2,31 +2,24 @@
 
 ### Purpose:
 
-- Using camera and recognize face to open door lock
-- Using websocket to connect with server
+- Using camera and recognize face to open door lock.
+- Using website to control the door lock.
 
-## 1. Part:
+## 1. Hardware:
 
-- ESP32-CAM
-- Camera OV2640
-- Servo motor
-- Relay
-- 5V power supply
-- 3.3V power supply
+- Raspberry Pi 4B.
+- Webcam or Raspberry Pi Camera module.
 
 ## 2. Program:
 
-- Arduino IDE
-- Websocket library
+- Python 3.7+ on Raspberry Pi OS.
+- Using Raspberry as a LAMP/LEMP server or using Flask to create a web server.
 
-## 3. Demo:
+## 3. Scheme:
 
-```
-Comming soon...
-```
+![Scheme](./image/Schema.png)
 
-## 4. Result
+# Contributors:
 
-```
-Comming soon...
-```
+- [Lê Ngọc Thao - 2114758](https://github.com/thaole04)
+- [Trương Tân](https://github.com/MrT203)

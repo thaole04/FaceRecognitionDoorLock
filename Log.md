@@ -18,3 +18,11 @@
 - Test camera and wifi connection
 - Create a simple web server to show the camera
 - Continue learning about the ESP32-CAM AI-Thinker and library to use for the project
+
+## 4. 8/10/2023
+
+- Change the hardware to Raspberry Pi 4B
+- Install Raspberry Pi OS and setup the Raspberry Pi
+- Install OpenCV and face recognition library
+- Test the camera and library face recognition
+- Draw the scheme for the project
